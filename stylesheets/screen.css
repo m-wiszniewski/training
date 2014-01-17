@@ -69,39 +69,4 @@ body {
 }
 
 
-/* liniowy gradient border--radius box-shadow>
-<!.... przyciski klasa blue-button >
-ostatnia sekcja footer
-na końcu strona glowna... w klasie after  lista  myślnik ma być obrazkiem
-hover activ dwie klasy najechany przyciśnięty
-bootstrap poczytać o tym
-mediaqueri poczytać o tym
-formularze:
-podstawowy znacznik <form>
-podstawowa definicja <form action="path.php" method="post"></form>
-method get dane są przesłane w sposób ;path.php?data1=wartość&data2=wartość
-method post dane są przesyłane w sposób ukryty 
-legenda formularza 
-semantyczny formularz
-<form action="path.php" method="post">
- <legend>Opis formularza</legend>
- <fieldset>
-  <div class="fieldWrap">
-   <label for="login">Opis pola</label>
-   <input type="text" id="login" />
-  </div>
-  <div class="fieldWrap">
-   <label for="password">Opis pola</label>
-   <input type="password" id="password" />
-  </div>
- </fieldset>
- <input type="submit" value="Wyślij" />
-</form>
-<textarea></textarea> podawanie opisów
-<select>
- <option>test</option> do wyboru np dnia urodzenia z listy
- <option>test</option>
-</select>
-poszukać w google semantyczne formularze
-poczytać : transitions css
-transitions przejście z niebieskiego na zółty*/
+/* */
